@@ -3,7 +3,7 @@
   $user = 'root';
   $pass = '';
   $server = 'localhost';
-  $db = 'macedo';
+  $db = 'db_loja';
 
   $mysqli = mysqli_connect($server, $user, $pass, $db);
   $mysqli->set_charset('utf8');
