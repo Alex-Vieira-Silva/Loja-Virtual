@@ -10,7 +10,7 @@
   <body>
     <header>
       <div class="center">
-        <h1>Mercadão Q-Bom - Pedido de compra - By Alex Vieira - php</h1>
+        <h1>Mercadão Qbom - Pedido de compra - By Alex Vieira - php</h1>
         <a href="carrinho.php" target="_blank">Carrinho</a>
       </div>
     </header>

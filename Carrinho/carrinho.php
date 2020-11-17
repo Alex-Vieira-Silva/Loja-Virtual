@@ -10,7 +10,7 @@
   <body>
     <header>
       <div class="center">
-        <h1>Programação Web II - Carrinho</h1>
+        <h1>Mercadão Qbom - Carrinho</h1>
         <a href="index.php">Inicial</a>
       </div>
     </header>
