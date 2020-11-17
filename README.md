@@ -1,2 +1,2 @@
 # Loja Virtual
- Desenvolvida em html5, javascript, css e mysql
+ Desenvolvida em html5, php, jquery, javascript, css e mysql.
